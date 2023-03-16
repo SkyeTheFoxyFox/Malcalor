@@ -1,0 +1,14 @@
+{
+	"type": "Unloader",
+	"name": "Heat Shielded Unloader",
+	"category": "distribution",
+	"research": "copper",
+	
+	
+	"requirements": [
+		"copper/1",
+	],
+
+	"health": 90,
+	"size": 1,
+}

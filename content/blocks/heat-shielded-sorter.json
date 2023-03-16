@@ -1,0 +1,16 @@
+{
+	"type": "Sorter",
+	"name": "Heat Shielded Sorter",
+	"category": "distribution",
+	"research": "copper",
+	
+	"hasItems": true,
+	
+	
+	"requirements": [
+		"copper/1",
+	],
+
+	"health": 90,
+	"size": 1,
+}

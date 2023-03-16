@@ -1,0 +1,15 @@
+{
+	"type": "OverflowGate",
+	"name": "Heat Shielded Overflow Gate",
+	"category": "distribution",
+	"research": "copper",
+
+	
+	
+	"requirements": [
+		"copper/1",
+	],
+
+	"health": 90,
+	"size": 1,
+}

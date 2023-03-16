@@ -1,0 +1,15 @@
+{
+	"type": "Wall",
+	"name": "Large Rhenium Wall",
+	"category": "defense",
+	
+	
+	"requirements": [
+		"silicon/75",
+		"lead/150",
+		"metaglass/75"
+	],
+	
+	"health": 640,
+	"size": 2,
+}

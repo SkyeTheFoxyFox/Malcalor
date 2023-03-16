@@ -1,0 +1,47 @@
+{
+	"type": "GenericCrafter",
+	"name": "Silicon Producer",
+	"category": "crafting",
+	
+	"ambientSound": "smelter",
+	
+
+	"itemCapacity": 10,
+
+	"craftTime": 30,
+	
+	"outputItem": "silicon/1",
+	
+	"craftEffect": "smeltsmoke"
+	
+	"requirements": [
+		"silicon/75",
+		"lead/150",
+		"metaglass/75"
+	],
+	
+	"consumes": {
+		"power": 0.5,
+		"items": {
+			"items": [
+				"carbon/1",
+				"sand/2",
+			]
+		}
+	},
+	
+	"drawer": {
+		"type": "DrawMulti"
+		"drawers": [
+			{
+				"type": "DrawRegion"
+			}
+			{
+				"type": "DrawFlame"
+			}
+		]
+	}
+
+	"health": 480,
+	"size": 2,
+}

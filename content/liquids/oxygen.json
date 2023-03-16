@@ -1,0 +1,12 @@
+{
+	"type": "Liquid",
+	"name": "Oxygen",
+	"color": "78c4ff",
+	"gas": true
+	"lightColor": "78c4ff",
+	"flammability": 0,
+	"temperature": 0.4,
+	"heatCapacity": 1,
+	"viscosity": 0.5,
+	"explosiveness": 0,
+}
